@@ -1,4 +1,4 @@
-FROM anselmos/ubuntu32:latest
+FROM ubuntu:trusty
 
 MAINTAINER github.com/anselmos
 ENV virtualenv_ver 1.9
